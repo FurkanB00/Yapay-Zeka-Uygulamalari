@@ -9,28 +9,28 @@ Bu proje, kural tabanlı bir chatbot geliştirme üzerine yapılmıştır. Chatb
 
      Python 3.6 veya daha yüksek bir sürümü yükleyin. Python İndir
 
-2. *Nltk Kütüphanesini kurun:*
+2. Nltk Kütüphanesini kurun:
   
   ``` bash
      pip install nltk
 ```
-3. *NLTK 'punkt' Paketini Yükleyin:*
+3. NLTK 'punkt' Paketini Yükleyin:
   
   ``` bash
      import nltk
      nltk.download('punkt')
    ```
-4. *FuzzyWuzzy Kütüphanesini kurun:*
+4. FuzzyWuzzy Kütüphanesini kurun:
   
    ```bash
      pip install fuzzywuzzy
    ```
-5. *PyQt5 Kütüphanesini kurun:*
+5. PyQt5 Kütüphanesini kurun:
 
    ```bash
       pip install PyQt5
      ```
-5. *Projeyi çalıştırmak için main.py dosyasını çalıştırın:*
+5. Projeyi çalıştırmak için main.py dosyasını çalıştırın:
   
    ```bash
      python main.py
