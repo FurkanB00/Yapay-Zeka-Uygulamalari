@@ -24,7 +24,7 @@ Bu proje, kural tabanlı bir chatbot geliştirme üzerine yapılmıştır. Chatb
   
    ```bash
      pip install fuzzywuzzy
-     ```
+   ```
 5.PyQt5 Kütüphanesini kurun:
 
    ```bash
