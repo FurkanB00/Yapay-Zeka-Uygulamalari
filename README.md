@@ -5,34 +5,34 @@ Bu proje, kural tabanlı bir chatbot geliştirme üzerine yapılmıştır. Chatb
 
 ## Kurulum
 
-1. *Python Kurun:*
+1. **Python Kurun:**
 
-     Python 3.6 veya daha yüksek bir sürümü yükleyin. Python İndir
+     Python 3.6 veya daha yüksek bir sürümü yükleyin.
 
 2. Nltk Kütüphanesini kurun:
   
-  ``` bash
+   ```bash
      pip install nltk
-```
+
 3. NLTK 'punkt' Paketini Yükleyin:
   
-  ``` bash
+   ```bash
      import nltk
      nltk.download('punkt')
-   ```
+   
 4. FuzzyWuzzy Kütüphanesini kurun:
   
-   ``` bash
+   ```bash
      pip install fuzzywuzzy
-   ```
+   
 5. PyQt5 Kütüphanesini kurun:
-
-   ``` bash
-      pip install PyQt5
-     ```
-5. Projeyi çalıştırmak için main.py dosyasını çalıştırın:
   
-   ``` bash
+   ```bash
+     pip install PyQt5
+
+6. Projeyi çalıştırmak için main.py dosyasını çalıştırın:
+  
+   ```bash
      python main.py
    ```
 
